@@ -1,0 +1,14 @@
+{
+    "Global Quote": {
+        "01. symbol": "GOOG",
+        "02. open": "116.9300",
+        "03. high": "118.8600",
+        "04. low": "116.7100",
+        "05. price": "118.2200",
+        "06. volume": "15615663",
+        "07. latest trading day": "2022-08-05",
+        "08. previous close": "118.8700",
+        "09. change": "-0.6500",
+        "10. change percent": "-0.5468%"
+    }
+}
